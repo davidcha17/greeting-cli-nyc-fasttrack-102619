@@ -3,3 +3,4 @@
 
 def greetings(name)
   puts "Hello, #{name}. It's is nice to meet you."
+end
